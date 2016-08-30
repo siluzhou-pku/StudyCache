@@ -333,6 +333,6 @@ A `Desarrolla2\Cache\Cache` 对象有如下方法：
 
 ## doc文档
 
-[性能测试]()
+[性能测试](https://github.com/siluzhou/StudyCache/wiki/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95)
 
 
