@@ -1,0 +1,15 @@
+{
+    "name": "zhousilu/study-cache",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "siluzhou",
+            "email": "siluzhou_pku@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "desarrolla2/cache":  "~2.0"
+
+    }
+}
