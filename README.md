@@ -33,7 +33,7 @@ desarrolla2/Cache学习
 
 ### 不使用 Composer
 
-你也可以从github(https://github.com/desarrolla2/Cache)上下载，但是这样子就没有自动加载器，你需要用自己的PSR-0兼容加载器注册。
+你也可以从github(https://github.com/desarrolla2/Cache) 上下载，但是这样子就没有自动加载器，你需要用自己的PSR-0兼容加载器注册。
 
 ## 使用
 
