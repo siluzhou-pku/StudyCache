@@ -22,7 +22,7 @@ desarrolla2/Cache学习
 
 ### 使用 Composer
 
-最好的安装方式是用[packagist](http://packagist.org/packages/desarrolla2/cache) 在composer.json文件中添加 `desarrolla2/cache` 
+最好的安装方式是用[packagist](http://packagist.org/packages/desarrolla2/cache)在composer.json文件中添加 `desarrolla2/cache` 
 
 ``` json
     "require": {
